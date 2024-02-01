@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Get your Dream", "second": " Kitchen Today!" },
+    "content": "Architek have been developing a transversal approach combining architecture, urbanism and landscape.",
+    "image": "/assets/img/slid/n/slider1.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Elevate your space",
+      "second": " with elegant interiors"
+    },
+    "content": "Architek have been developing a transversal approach combining architecture, urbanism and landscape.",
+    "image": "/assets/img/slid/n/slider2.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Some people look for a beautiful place",
+      "second": "others make a place beautiful"
+    },
+    "content": "Architek have been developing a transversal approach combining architecture, urbanism and landscape.",
+    "image": "/assets/img/slid/n/slider-3.jpg"
+  }
+]

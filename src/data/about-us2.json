@@ -1,0 +1,25 @@
+{
+  "title": {
+    "first": "Best Designers",
+    "second": "Architectures for You."
+  },
+  "image1": "/assets/img/living-room.jpg",
+  "image2": "/assets/img/kitchen-scaled.jpg",
+  "content": "Red Finch Interiors is dedicated to provide artsy, elegant and high end interiors at affordable prices. We specialize in home interiors, modular kitchens, furniture design, turnkey projects and commercial design. We provide photo realistic 3D designs along with impeccable project execution.",
+
+  "exp": 15,
+  "textList": [
+    {
+      "id": 1,
+      "name": "Architecture"
+    },
+    {
+      "id": 2,
+      "name": "Interior Design"
+    },
+    {
+      "id": 3,
+      "name": "Furniture"
+    }
+  ]
+}
